@@ -34,6 +34,14 @@ body {
   color: #2196f3;
 }
 
+.navigation-list {
+  list-style-type: none;
+}
+
+.address-list {
+  list-style-type: none;
+}
+
 .navigation-list-link {
   font-weight: 500;
   font-size: 14px;
@@ -108,10 +116,16 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
+.features-list {
+  list-style-type: none;
+}
 /*===============End Our Features===============*/
 
 /*===============About===============*/
-
+.about-list {
+  list-style-type: none;
+}
 /*===============End About===============*/
 
 /*===============Team===============*/
@@ -131,6 +145,10 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
+}
+
+.team-list {
+  list-style-type: none;
 }
 /*===============End Team===============*/
 
@@ -189,5 +207,13 @@ body {
   line-height: 1.875;
   letter-spacing: 0.03em;
   color: #757575;
+}
+
+.works-list {
+  list-style-type: none;
+}
+
+.portfolio-list {
+  list-style-type: none;
 }
 /*===============End Portfolio===============*/
